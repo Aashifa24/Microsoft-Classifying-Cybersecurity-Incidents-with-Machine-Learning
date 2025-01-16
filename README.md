@@ -33,7 +33,7 @@ Security Operation Centers (SOCs) face challenges with high volumes of cybersecu
 - **`Model_building_and_Evaluation.ipynb`:** Notebook for model training, hyperparameter tuning, and evaluation.
 - **`best_XGB_Classification_model_without_SMOTE.pkl`:** Serialized file of the best XGBoost model trained without SMOTE.
 - **`best_xgboost_Classification_model_SMOTE.pkl`:** Serialized file of the best XGBoost model trained with SMOTE.
-- **`documentation.pdf`:** PDF containing detailed project documentation. Link : documentation.pdf
+- **`documentation.pdf`:** PDF containing detailed project documentation. Link : [documentation.pdf](https://github.com/Aashifa24/Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning/blob/0e6bfb137794dbd990b26ee7b3110ab360f16139/documentation.pdf)
 - **`presentation.pptx`:** PowerPoint presentation summarizing the project.
 
 ## How to Run the Project
