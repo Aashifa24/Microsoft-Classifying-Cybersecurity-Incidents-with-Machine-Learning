@@ -31,7 +31,6 @@ Security Operation Centers (SOCs) face challenges with high volumes of cybersecu
 
 - **`Data_preprocessing_and_EDA.ipynb`:** Notebook for data cleaning, preprocessing, and exploratory data analysis.
 - **`Model_building_and_Evaluation.ipynb`:** Notebook for model training, hyperparameter tuning, and evaluation.
-- **`README.md`:** Documentation for the project.
 - **`best_XGB_Classification_model_without_SMOTE.pkl`:** Serialized file of the best XGBoost model trained without SMOTE.
 - **`best_xgboost_Classification_model_SMOTE.pkl`:** Serialized file of the best XGBoost model trained with SMOTE.
 - **`documentation.pdf`:** PDF containing detailed project documentation.
@@ -66,6 +65,4 @@ pip install -r requirements.txt
 - Experiment with additional feature engineering techniques.
 - Automate the deployment of the model into SOC workflows.
 
----
 
-Let me know if this is good to go or requires edits!
