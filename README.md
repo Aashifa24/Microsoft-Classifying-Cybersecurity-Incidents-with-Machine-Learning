@@ -37,10 +37,10 @@ This project focuses on developing a machine learning model to predict the triag
 ### **Steps to Reproduce**
 
 1. **Clone the repository**:  
-   `git clone <repository_url>`
+   `git clone <https://github.com/Aashifa24/Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning>`
 
 2. **Navigate to the project folder**:  
-   `cd <project_folder>`
+   `cd <Microsoft-Classifying-Cybersecurity-Incidents-with-Machine-Learning>`
 
 3. **Open the Jupyter notebooks**:  
    - **Data_preprocessing_and_EDA.ipynb** for data preparation and preprocessing.  
